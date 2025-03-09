@@ -27,7 +27,7 @@
 |------------------------------------|-------------|
 | Random                             | 50.48       |
 | Average Score                      | 80.08       |
-| PageRank & Average Score*          | 84.55       |
+| PageRank & Average Score           | 84.55       |
 | **Heterogeneous Graph + GraphSAGE** | **86.79**   |
 
 #### 🚀 결론 및 성과
