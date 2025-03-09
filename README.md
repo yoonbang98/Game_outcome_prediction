@@ -1,7 +1,7 @@
 # 🎯 Battle Game Result Prediction using Heterogeneous Graph
 ### 📌 프로젝트 개요
 본 프로젝트는 Graph Mining 기법을 활용하여 멀티플레이어 배틀 게임의 승패 및 점수를 예측하는 프로젝트입니다.
-특히 승패 여부(Task 1) 와 점수 예측(Task 2) 두 가지 문제를 해결하는 것이 목표였고 팀으로 진행해 Task 2를 맡아 진행했습니다.
+특히 승패 여부(Task 1) 와 점수 예측(Task 2) 두 가지 문제를 해결하는 것이 목표였습니다.
 
 #### 🏆 Task 1: 승리 예측
 🔹 방법론
